@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\backup\Servomechanism\Assets\WalkingScript.cs">
+    <Files>
+      <File FileName="..\backup\Servomechanism\Assets\RightFootStep.cs" Line="29" Column="27" />
+      <File FileName="..\backup\Servomechanism\Assets\WalkingScript.cs" Line="76" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
